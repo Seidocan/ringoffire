@@ -1,0 +1,21 @@
+.game-description {
+    position: absolute;
+    bottom: 32px;
+    left: 200px;
+    right: 200px;
+    background-color: rgba(0, 0, 0, 0.407);
+    border: 1px solid white;
+
+
+    >.title {
+        font-size: 24px;
+        color: white;
+        padding: 15px;
+    }
+
+    >.content {
+        font-size: 24px;
+        font-style: italic;
+        color: white;
+    }
+}
